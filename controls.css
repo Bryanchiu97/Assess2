@@ -1,0 +1,31 @@
+#controls {
+    width: 500px;
+}
+#display {
+    display: inline-block;
+    position: relative;
+}
+.range {
+    width: 50px;
+}
+#number {
+    background-color: #062408;
+    color: #fff;
+}
+#random {
+    background-color: #B4381E;
+    color: #1EBCBC;
+}
+#add {
+    background-color: #1DA728;
+    color: #fff;
+}
+#autoRandom {
+    background-color: #729574;
+    color: #305656;
+}
+#stopAuto {
+   background-color: #1E2EBC;
+    color: #BBBBBB; 
+}
+
